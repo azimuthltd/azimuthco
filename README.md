@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap](http://startbootstrap.com/) - [2 Col Portfolio](http://startbootstrap.com/template-overviews/2-col-portfolio/)
 
 [2 Col Portfolio](http://startbootstrap.com/template-overviews/2-col-portfolio/) is a two column portfolio template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
@@ -25,3 +26,6 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-2-col-portfolio/blob/gh-pages/LICENSE) license.
+=======
+# azimuthco
+>>>>>>> fd631e417d42d3c16d020543250fd3c16f58e47a
