@@ -1,3 +1,3 @@
-# www.azimuth.co
+# www.theazimuth.co
 
 Website for azimuth
