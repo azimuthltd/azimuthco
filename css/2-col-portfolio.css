@@ -11,6 +11,10 @@
     font-style: normal;
 }
 
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
 a, a:hover{
     color:#000000;
 }
